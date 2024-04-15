@@ -1,3 +1,4 @@
+'''
 section .text
 	global _start
 _start:
@@ -18,3 +19,4 @@ section .data
 x dd 7
 segment .bss
 result resb 1
+'''
